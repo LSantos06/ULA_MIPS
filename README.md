@@ -28,7 +28,7 @@ ambiente *Quartus* / *ModelSim-Altera*.
   - Clique em **View->Wave** para visualizar os sinais adicionados na tela;
   - Vá ao menu **Simulate** e clique em **Run**.
   
-## Tutorias utilizados
+## Tutoriais utilizados
   - https://standards.ieee.org/downloads/1076/1076.2-1996/numeric_std.vhdl
   - https://pt.wikipedia.org/wiki/VHDL
   - https://www.altera.com/support/support-resources/design-examples/design-software/simulation/modelsim/simulation-manual-howto.html
