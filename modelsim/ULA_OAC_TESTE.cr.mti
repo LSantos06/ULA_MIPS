@@ -1,0 +1,16 @@
+E:/Dropbox/UnB/VHDL/TRAB4/ULA_OAC.vhd {1 {vcom -work ULA_OAC -2002 -explicit E:/Dropbox/UnB/VHDL/TRAB4/ULA_OAC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 16:34:09 on Oct 23,2016
+vcom -reportprogress 300 -work ULA_OAC -2002 -explicit E:/Dropbox/UnB/VHDL/TRAB4/ULA_OAC.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ULA_OAC
+-- Compiling architecture comportamento of ULA_OAC
+** Warning: E:/Dropbox/UnB/VHDL/TRAB4/ULA_OAC.vhd(112): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+End time: 16:34:09 on Oct 23,2016, Elapsed time: 0:00:00
+Errors: 0, Warnings: 1
+
+} {} {}}
