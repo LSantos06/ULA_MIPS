@@ -1,4 +1,4 @@
-# ULA_MIPS_OAC
+# ULA_MIPS
 ### Trabalho 4 de Organizacão e Arquitetura de Computadores
 
 ## Objetivo
